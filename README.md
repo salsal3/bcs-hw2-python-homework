@@ -9,6 +9,6 @@ Not to worry! I'll have it spiffied up and the cleaner version shipped out tomor
 ..today.
 
 
-   /)/)
-(\(^-^)
-(")("))o
+..../)/)
+.(\(^-^)
+.(")("))o
