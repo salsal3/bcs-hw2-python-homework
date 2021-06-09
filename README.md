@@ -6,7 +6,7 @@ I ended up experimenting with a lot of code from inside *and* outside of the les
 As a result, it's a little messy in there. Might make you a little dizzy looking at it.
 Not to worry! I'll have it spiffied up and the cleaner version shipped out tomorrow.
 
-..today.
+..later today.
 
 <pre>
    /)/)
